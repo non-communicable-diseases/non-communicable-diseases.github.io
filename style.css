@@ -1,0 +1,30 @@
+body{
+	background-image: url(fon.jpg);
+color: #f8fff2;
+font-size: 20px;
+margin: 4px;
+}
+
+details summary{
+padding: 10px;
+cursor: pointer;
+border: 3px solid #ffffff;
+border-radius: 13px;
+background-color: #737a75;
+}
+
+	
+div{
+	padding: 50px;
+border: 9px solid #ccd6d9;
+border-radius: 13px;
+border-style: outset;
+}
+
+#dia{
+	color: #212422;
+}
+
+img{
+	margin: 22px;
+}
